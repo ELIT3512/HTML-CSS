@@ -1,0 +1,26 @@
+table, th,td{
+    border: gold double 5px;
+    padding: 10px;
+}
+header{
+    background-color: aqua;
+}
+table{
+    background-color: aqua;
+}
+#login{
+    background-image: url("/img/storekloginin.png");
+    width: 100%;
+}
+#profile{
+    background-image: url(/img/profileimg.png);
+    width: 100%;
+}
+#store{
+    background-image: url(/img/storekimg.png);
+    width: 100%;
+}
+.mobile1st{
+    width:min-content;
+    size: 1vw;
+}

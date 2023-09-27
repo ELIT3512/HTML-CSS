@@ -1,16 +1,16 @@
-# FinalProject
+# HTML&CSSProject
 HTML&amp;CSS
 name: "Feature request \U0001F680"
-about: Suggest an idea
+about: HTML CSS
 labels: enhancement
 
 ---
 
 ## Summary
-Brief explanation of the feature.
+its a store where you buy clothes
 
 ### Basic example
-Include a basic example or links here.
+shirts shoes shorts
 
 ### Motivation
-Why are we doing this? What use cases does it support? What is the expected outcome?
+Why are we doing this? so you can feel good looking good
